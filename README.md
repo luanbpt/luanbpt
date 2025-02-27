@@ -1,4 +1,4 @@
-### Olá! Eu sou o Luan
+### Olá! Eu sou o Luan, sou um desenvolvedor backend com foco em Java e SQL 
 
 ## tecnologias que eu estou praticando
 
